@@ -1,0 +1,2 @@
+# DrawableClickEditText
+EditText的drawableLeft、drawableRight、drawableTop、drawableBottom设置点击事件，轻松实现查看密码，点击可以清空输入的字符等常用功能，告别复杂结构。
